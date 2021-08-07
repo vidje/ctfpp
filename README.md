@@ -42,8 +42,11 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 Shining Forces used to be a very defensive map with a low scoring gameplay. The following changes were made to counter this,
 
 > Railgun now spawns at Plasmagun location.
+> 
 > Plasmagun now spawns at Lightning Gun location.
+> 
 > Lightning Gun now spawns at Railgun location.
+> 
 > Replaced Regen powerup with Quad.
 
 ## Ideas

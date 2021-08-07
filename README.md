@@ -39,7 +39,7 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 
 ### Map changes
 
-Shining Forces used to be a very defensive map with a low scoring gameplay. The following changes were made to counter this,
+**Shining Forces** used to be a very defensive map with a low scoring gameplay. The following changes were made to counter this,
 
 > Railgun now spawns at defaultPlasmagun location.
 > 

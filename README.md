@@ -56,15 +56,24 @@ The change in weapon placements might be completely unnecessary now that Quad is
 The following maps were changed in mind for CTF++ gameplay:
 
 > Courtyard
+>
 > Future Crossings
 > Ironworks
+> 
 > Japanese Castles
+> 
 > Pillbox
+> 
 > Shining Forces
+> 
 > Siberia
+> 
 > Spider Crossings
+> 
 > Stonekeep
+> 
 > The Duke's Garden
+> 
 > Troubled Waters
 
 ## Ideas

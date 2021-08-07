@@ -10,7 +10,7 @@ Server: [51.75.77.17:27960 (DE)](steam://connect/51.75.77.17:27960/)
 
 ### Spawns
 
-The following changes were made for the fresh spawns to have less impact on the gameplay.
+The following changes were made for the fresh spawns to have less impact on the gameplay. Please keep in mind that in 4v4 the spawns don't have that big of an impact on the game, so if you're going to run 4v4 games it might be better to leave the default values.
 
 Quake Live spawn system isn’t ideal and these changes allow for quick dealing with fresh spawns while maintaining your stack.
 
@@ -41,13 +41,15 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 
 Shining Forces used to be a very defensive map with a low scoring gameplay. The following changes were made to counter this,
 
-> Railgun now spawns at Plasmagun location.
+> Railgun now spawns at defaultPlasmagun location.
 > 
-> Plasmagun now spawns at Lightning Gun location.
+> Plasmagun now spawns at default Lightning Gun location.
 > 
-> Lightning Gun now spawns at Railgun location.
+> Lightning Gun now spawns at default Railgun location.
 > 
 > Replaced Regen powerup with Quad.
+
+The change in weapon placements might be completely unnecessary now that Quad is in play instead of Regen, but until it's tested we won't know.
 
 ## Ideas
 

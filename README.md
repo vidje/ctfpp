@@ -33,7 +33,7 @@ Random powerup spawn was always bad and never rewarded the team that set up bett
 
 ### Weapons
 
-Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the dominance railgun has in CTF. This change applies to the following maps: `courtyard`, `futurecrossings`, `ironworks`, `japanesecastles`, `pillbox`, `shiningforces`, `siberia`, `spidercrossings`, `stonekeep`, `thedukesgarden` and `troubledwaters`. To revert these changes, simply remove the `.ent` files from `baseq3/entities` or set `sv_altEntDir` to blank in `ctfpp.factories` or server console.
+Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the dominance railgun has in CTF. This change applies only to the CTF++ map pool. To revert these changes, simply remove the `.ent` files from `baseq3/entities` or set `sv_altEntDir` to blank in `ctfpp.factories` or server console.
 
 > Railgun pickup ammo set to 7.
 
@@ -50,6 +50,22 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 > Replaced Regen powerup with Quad.
 
 The change in weapon placements might be completely unnecessary now that Quad is in play instead of Regen, but until it's tested we won't know.
+
+### Map pool
+
+The following maps were changed in mind for CTF++ gameplay:
+
+> Courtyard
+> Future Crossings
+> Ironworks
+> Japanese Castles
+> Pillbox
+> Shining Forces
+> Siberia
+> Spider Crossings
+> Stonekeep
+> The Duke's Garden
+> Troubled Waters
 
 ## Ideas
 

@@ -1,12 +1,7 @@
-courtyard|ctfpp
-futurecrossings|ctfpp
-infinity|ctfpp
+ct3ctf1|ctfpp
 ironworks|ctfpp
 japanesecastles|ctfpp
 pillbox|ctfpp
 shiningforces|ctfpp
-siberia|ctfpp
 spidercrossings|ctfpp
-stonekeep|ctfpp
-thedukesgarden|ctfpp
 troubledwaters|ctfpp

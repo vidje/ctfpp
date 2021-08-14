@@ -420,7 +420,7 @@
 {
 "spawnflags" "0"
 "origin" "-532 -188 -296"
-"classname" "ammo_rockets"
+"classname" "ammo_slugs"
 }
 {
 "spawnflags" "0"
@@ -711,7 +711,7 @@
 }
 {
 "angle" "0"
-"classname" "ammo_rockets"
+"classname" "ammo_slugs"
 "origin" "-532 2620 -296"
 }
 {

@@ -11,7 +11,7 @@
 		"sv_fps": "125",
    		"timelimit": "20",
   		"teamsize": "4",
-		"g_respawn_delay_min": "1000",
+		"g_respawn_delay_min": "1500",
 		"g_startingHealthBonus": "0",
 		"g_spawnDelayRandom_powerup": "0",
 		"g_spawnDelay_powerup" : "50",

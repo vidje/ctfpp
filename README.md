@@ -4,8 +4,6 @@ CTF++ is a modification of the CTF ruleset to allow for a more cleaner gameplay.
 
 Discord: [Invite](https://discord.gg/5VM73pwrxA)
 
-Server: [51.75.77.17:27960 (DE)](steam://connect/51.75.77.17:27960/)
-
 ## Changes
 
 ### Spawns

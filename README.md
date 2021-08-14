@@ -45,6 +45,8 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 > 
 > Lightning Gun now spawns at default Railgun location.
 > 
+> Railgun ammo now spawns instead of rocket ammo in both bases.
+> 
 > Replaced Regen powerup with Quad.
 
 The change in weapon placements might be completely unnecessary now that Quad is in play instead of Regen, but until it's tested we won't know.

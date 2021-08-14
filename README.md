@@ -21,7 +21,7 @@ This on its own is nice and fine, but I do think that spawns are too weak with t
 
 You might not be as strong as before off a spawn, but you respawn a lot faster and can get in position to intercept (or whatever) in time.
 
-> Minimum respawn delay set to 1000ms.
+> Minimum respawn delay set to 1500ms.
 
 ### Powerups
 

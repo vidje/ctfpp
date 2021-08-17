@@ -2,7 +2,7 @@
 
 CTF++ is a modification of the CTF ruleset to allow for a more cleaner gameplay.
 
-Discord: [Invite](https://discord.gg/5VM73pwrxA)
+Discord: [Invite](https://discord.gg/RVHpEGRrmf)
 
 ## Changes
 
@@ -13,7 +13,6 @@ The following changes were made for the fresh spawns to have less impact on the 
 Quake Live spawn system isn’t ideal and these changes allow for quick dealing with fresh spawns while maintaining your stack.
 
 > Removal of starting health bonus, everyone spawns with 100hp.
-> Machinegun damage reduced to 4 per bullet.
 
 This on its own is nice and fine, but I do think that spawns are too weak with these changes. To counter that, the respawn duration has been lowered by more than half.
 
@@ -39,11 +38,9 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 
 **Shining Forces** used to be a very defensive map with a low scoring gameplay. The following changes were made to counter this,
 
-> Railgun now spawns at defaultPlasmagun location.
+> Railgun now spawns at default Plasmagun location.
 > 
-> Plasmagun now spawns at default Lightning Gun location.
-> 
-> Lightning Gun now spawns at default Railgun location.
+> Plasmagun now spawns at default Railgun Gun location.
 > 
 > Railgun ammo now spawns instead of rocket ammo in both bases.
 > 
@@ -58,6 +55,7 @@ The following maps were changed in mind for CTF++ gameplay:
 > Courtyard
 >
 > Future Crossings
+>
 > Ironworks
 > 
 > Japanese Castles

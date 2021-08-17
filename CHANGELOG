@@ -1,15 +1,15 @@
 ### v0.1
 
 **Global changes**
-Starting health: 100 (old: 125)
-Minimum respawn delay: 1500ms (old: 2400)
-First powerup spawn time: 50s (old: random 30-60)
-Railgun ammo on pickup: 7 (old: 10)
+  * Starting health: 100 (old: 125)
+  * Minimum respawn delay: 1500ms (old: 2400)
+  * First powerup spawn time: 50s (old: random 30-60)
+  * Railgun ammo on pickup: 7 (old: 10)
 
 **Map specific**
-SHINING FORCES
-Railgun now spawns at default Plasmagun location.
-Plasmagun now spawns at default Lightning Gun location.
-Lightning Gun now spawns at default Railgun location.
-Railgun ammo now spawns instead of rocket ammo in both bases.
-Replaced Regen powerup with Quad.
+  SHINING FORCES
+    * Railgun now spawns at default Plasmagun location.
+    * Plasmagun now spawns at default Lightning Gun location.
+    * Lightning Gun now spawns at default Railgun location.
+    * Railgun ammo now spawns instead of rocket ammo in both bases.
+    * Replaced Regen powerup with Quad.

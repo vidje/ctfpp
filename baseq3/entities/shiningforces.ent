@@ -125,7 +125,7 @@
 }
 {
 "spawnflags" "0"
-"classname" "weapon_lightning"
+"classname" "weapon_plasmagun"
 "origin" "-776 2608 -47"
 }
 {
@@ -702,7 +702,7 @@
 "team" "rweap1"
 "angle" "0"
 "origin" "45 2607 -293"
-"classname" "weapon_plasmagun"
+"classname" "weapon_lightning"
 }
 {
 "angle" "0"
@@ -811,7 +811,7 @@
 }
 {
 "origin" "-776 -176 -47"
-"classname" "weapon_lightning"
+"classname" "weapon_plasmagun"
 }
 {
 "gametype" "1f"
@@ -856,7 +856,7 @@
 }
 {
 "origin" "48 -193 -296"
-"classname" "weapon_plasmagun"
+"classname" "weapon_lightning"
 "team" "bweap1"
 "spawnflags" "0"
 }

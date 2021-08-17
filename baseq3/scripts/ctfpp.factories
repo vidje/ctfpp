@@ -20,7 +20,7 @@
 		"g_overtime": "0",
 		"g_timeoutLen": "120",
 		"g_allowKill": "0",
-		"g_damage_mg": "4",
+		"g_damage_mg": "5",
 		"g_inactivity": "0",
 		"g_dropInactive": "0",
 		"g_voteflags": "13320"

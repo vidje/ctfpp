@@ -4,6 +4,7 @@
   * Starting health: 100 (old: 125)
   * Minimum respawn delay: 1500ms (old: 2400)
   * First powerup spawn time: 50s (old: random 30-60)
+  * Machinegun damage: 4 (old: 5)
   * Railgun ammo on pickup: 7 (old: 10)
 
 **Map specific**

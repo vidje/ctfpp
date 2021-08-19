@@ -71,13 +71,13 @@
 "origin" "416 1536 16"
 }
 {
-"classname" "weapon_railgun"
+"classname" "weapon_grenadelauncher"
 "origin" "-416 -1472 272"
 "count" "7"
 }
 {
 "origin" "416 1472 272"
-"classname" "weapon_railgun"
+"classname" "weapon_grenadelauncher"
 "count" "7"
 }
 {
@@ -232,7 +232,7 @@
 "classname" "ammo_lightning"
 }
 {
-"classname" "weapon_grenadelauncher"
+"classname" "weapon_railgun"
 "origin" "-160 3040 150"
 }
 {
@@ -1168,7 +1168,7 @@
 }
 {
 "origin" "160 -3040 150"
-"classname" "weapon_grenadelauncher"
+"classname" "weapon_railgun"
 }
 {
 "classname" "weapon_shotgun"

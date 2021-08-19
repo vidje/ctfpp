@@ -71,6 +71,16 @@
 "origin" "416 1536 16"
 }
 {
+"classname" "weapon_railgun"
+"origin" "-416 -1472 272"
+"count" "7"
+}
+{
+"origin" "416 1472 272"
+"classname" "weapon_railgun"
+"count" "7"
+}
+{
 "origin" "416 1248 -16"
 "classname" "weapon_plasmagun"
 }

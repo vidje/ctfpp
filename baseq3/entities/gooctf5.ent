@@ -94,14 +94,14 @@
 }
 {
 "origin" "872 -1152 104"
-"classname" "item_health"
+"classname" "item_armor_combat"
 }
 {
 "classname" "weapon_shotgun"
 "origin" "-1056 -2432 72"
 }
 {
-"classname" "item_health"
+"classname" "item_armor_combat"
 "origin" "-1192 -2432 104"
 }
 {
@@ -1536,7 +1536,7 @@
 }
 {
 "origin" "-160 -1792 72"
-"classname" "item_armor_body"
+"classname" "item_regen"
 }
 {
 "model" "*29"

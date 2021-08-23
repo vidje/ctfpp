@@ -167,7 +167,7 @@
 "origin" "52 -100 -280"
 }
 {
-"classname" "weapon_railgun"
+"classname" "item_armor_shard"
 "origin" "-124 -136 -280"
 }
 {

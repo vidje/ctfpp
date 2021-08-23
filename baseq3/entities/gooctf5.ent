@@ -132,7 +132,7 @@
 }
 {
 "origin" "-256 -4080 0"
-"classname" "weapon_rocketlauncher"
+"classname" "weapon_plasmagun"
 }
 {
 "origin" "-256 -3920 0"
@@ -144,7 +144,7 @@
 }
 {
 "origin" "352 -3360 -72"
-"classname" "weapon_plasmagun"
+"classname" "weapon_rocketlauncher"
 }
 {
 "origin" "-128 -3048 -72"

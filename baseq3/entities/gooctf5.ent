@@ -405,7 +405,8 @@
 }
 {
 "origin" "844 -1892 104"
-"classname" "ammo_rockets"
+"classname" "weapon_railgun"
+"count" "7"
 }
 {
 "origin" "264 -2344 -72"
@@ -1005,8 +1006,9 @@
 "classname" "target_position"
 }
 {
-"classname" "ammo_rockets"
+"classname" "weapon_railgun"
 "origin" "-1164 -1692 96"
+"count" "7"
 }
 {
 "targetname" "t74"

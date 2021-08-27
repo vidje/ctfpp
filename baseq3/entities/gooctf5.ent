@@ -562,6 +562,11 @@
 "classname" "target_location"
 }
 {
+"message" "^7Mid"
+"origin" "-128 -1440 72"
+"classname" "target_location"
+}
+{
 "origin" "-192 -2340 72"
 "classname" "weapon_grenadelauncher"
 }

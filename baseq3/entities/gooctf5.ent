@@ -29,6 +29,11 @@
 "classname" "misc_teleporter_dest"
 }
 {
+"message" "^4Rail Area"
+"origin" "-888 -704 160"
+"classname" "target_location"
+}
+{
 "classname" "trigger_teleport"
 "target" "t2"
 "model" "*2"

@@ -158,7 +158,7 @@
 "classname" "weapon_lightning"
 }
 {
-"message" "^4LG + Teleporter"
+"message" "^1LG + Teleporter"
 "origin" "-448 -2688 -280"
 "classname" "target_location"
 }
@@ -204,7 +204,7 @@
 "origin" "128 -896 -280"
 }
 {
-"message" "^1LG + Teleporter"
+"message" "^4LG + Teleporter"
 "origin" "128 -896 -280"
 "classname" "target_location"
 }
@@ -444,7 +444,7 @@
 "count" "7"
 }
 {
-"message" "^4Rail Area"
+"message" "^1Rail Area"
 "origin" "844 -1892 104"
 "classname" "target_location"
 }
@@ -537,8 +537,18 @@
 "origin" "-128 -1240 72"
 }
 {
+"message" "^1Forward Base"
+"origin" "-128 -1240 72"
+"classname" "target_location"
+}
+{
 "origin" "-192 -2340 72"
 "classname" "weapon_grenadelauncher"
+}
+{
+"message" "^4Forward Base"
+"origin" "-192 -2340 72"
+"classname" "target_location"
 }
 {
 "angle" "180"
@@ -1061,7 +1071,7 @@
 "count" "7"
 }
 {
-"message" "^1Rail Area"
+"message" "^4Rail Area"
 "origin" "-1164 -1692 96"
 "classname" "target_location"
 }

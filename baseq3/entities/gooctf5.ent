@@ -479,8 +479,18 @@
 "classname" "item_health_mega"
 }
 {
+"message" "^1Mega + YA"
+"origin" "824 -3360 -280"
+"classname" "target_location"
+}
+{
 "classname" "item_health_mega"
 "origin" "-1144 -224 -280"
+}
+{
+"message" "^4Mega + YA"
+"origin" "-1144 -224 -280"
+"classname" "target_location"
 }
 {
 "classname" "weapon_grenadelauncher"

@@ -214,8 +214,13 @@
 "classname" "target_location"
 }
 {
-"message" "^4Flag Area"
+"message" "^7Mid"
 "origin" "128 -1096 -280"
+"classname" "target_location"
+}
+{
+"message" "^4Flag Area"
+"origin" "128 -696 -280"
 "classname" "target_location"
 }
 {

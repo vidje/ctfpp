@@ -214,6 +214,11 @@
 "classname" "target_location"
 }
 {
+"message" "^4Flag Area"
+"origin" "128 -1096 -280"
+"classname" "target_location"
+}
+{
 "classname" "weapon_rocketlauncher"
 "origin" "-672 -224 -72"
 }

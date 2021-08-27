@@ -154,17 +154,17 @@
 "classname" "item_health"
 }
 {
-"message" "^1Flag Area"
-"origin" "-256 -3920 0"
-"classname" "target_location"
-}
-{
 "origin" "-448 -2688 -280"
 "classname" "weapon_lightning"
 }
 {
 "message" "^1LG + Teleporter"
 "origin" "-448 -2688 -280"
+"classname" "target_location"
+}
+{
+"message" "^1Flag Area"
+"origin" "-448 -2888 -280"
 "classname" "target_location"
 }
 {

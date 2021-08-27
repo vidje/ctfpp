@@ -158,6 +158,11 @@
 "classname" "weapon_lightning"
 }
 {
+"message" "^4LG + Teleporter"
+"origin" "-448 -2688 -280"
+"classname" "target_location"
+}
+{
 "origin" "352 -3360 -72"
 "classname" "weapon_rocketlauncher"
 }
@@ -197,6 +202,11 @@
 {
 "classname" "weapon_lightning"
 "origin" "128 -896 -280"
+}
+{
+"message" "^1LG + Teleporter"
+"origin" "128 -896 -280"
+"classname" "target_location"
 }
 {
 "classname" "weapon_rocketlauncher"
@@ -432,6 +442,11 @@
 "origin" "844 -1892 104"
 "classname" "weapon_railgun"
 "count" "7"
+}
+{
+"message" "^4Rail Area"
+"origin" "844 -1892 104"
+"classname" "target_location"
 }
 {
 "origin" "264 -2344 -72"
@@ -1044,6 +1059,11 @@
 "classname" "weapon_railgun"
 "origin" "-1164 -1692 96"
 "count" "7"
+}
+{
+"message" "^1Rail Area"
+"origin" "-1164 -1692 96"
+"classname" "target_location"
 }
 {
 "targetname" "t74"

@@ -154,6 +154,11 @@
 "classname" "item_health"
 }
 {
+"message" "^1Flag Area"
+"origin" "-256 -3920 0"
+"classname" "target_location"
+}
+{
 "origin" "-448 -2688 -280"
 "classname" "weapon_lightning"
 }
@@ -417,6 +422,11 @@
 {
 "origin" "-848 -1840 72"
 "classname" "ammo_grenades"
+}
+{
+"message" "^7Mid"
+"origin" "-848 -1840 72"
+"classname" "target_location"
 }
 {
 "origin" "-168 368 0"
@@ -1108,6 +1118,11 @@
 {
 "origin" "528 -1744 72"
 "classname" "ammo_grenades"
+}
+{
+"message" "^7Mid"
+"origin" "528 -1744 72"
+"classname" "target_location"
 }
 {
 "targetname" "t77"

@@ -9,8 +9,18 @@
 "origin" "-64 0 -64"
 }
 {
+"message" "^4Flag Area"
+"origin" "-64 0 -64"
+"classname" "target_location"
+}
+{
 "origin" "-1408 192 -56"
 "classname" "item_armor_combat"
+}
+{
+"message" "^4Upper YA"
+"origin" "-1408 192 -56"
+"classname" "target_location"
 }
 {
 "target" "t1"

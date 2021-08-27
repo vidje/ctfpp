@@ -215,7 +215,7 @@
 }
 {
 "message" "^4LG + Teleporter"
-"origin" "128 -1096 -280"
+"origin" "128 -996 -280"
 "classname" "target_location"
 }
 {

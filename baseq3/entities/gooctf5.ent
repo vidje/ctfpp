@@ -5,6 +5,16 @@
 "music" "music/fla22k_06.wav"
 }
 {
+"classname" "target_location"
+"origin" "-64 0 -64"
+"message" "^4Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "-64 0 -64"
+"message" "^4Mega Area"
+}
+{
 "classname" "team_CTF_blueflag"
 "origin" "-64 0 -64"
 }

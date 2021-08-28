@@ -6,12 +6,172 @@
 }
 {
 "classname" "target_location"
+"origin" "-256 -3584 -64"
+"message" "^1Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "1088 -3776 -56"
+"message" "^1Mega Area"
+}
+{
+"classname" "target_location"
+"origin" "535 -3368 -269"
+"message" "^1Mega Area"
+}
+{
+"classname" "target_location"
+"origin" "420 -3360 -72"
+"message" "^1Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "383 -2928 -61"
+"message" "^1Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "-658 -2940 -93"
+"message" "^1Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "-288 -2920 -280"
+"message" "^1Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "-448 -2688 -280"
+"message" "^1Teleporter Area"
+}
+{
+"classname" "target_location"
+"origin" "-742 -2452 -269"
+"message" "^1Teleporter Area"
+}
+{
+"classname" "target_location"
+"origin" "-335 -2287 -269"
+"message" "^1Teleporter Area"
+}
+{
+"classname" "target_location"
+"origin" "373 -2761 -61"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "-750 -2845 84"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "-192 -2616 82"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "-442 -2787 82"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "310 -2339 -61"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "440 -2554 -61"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "431 -2429 50"
+"message" "^1Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "535 -2582 58"
+"message" "^1Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "529 -2780 58"
+"message" "^1Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "844 -1892 104"
+"message" "^1Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-1056 -2432 72"
+"message" "^1Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-989 -2270 82"
+"message" "^1Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-983 -2752 82"
+"message" "^1Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-1128 -2111 82"
+"message" "^1Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-869 -2676 82"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "-872 -2444 -13"
+"message" "^1Mid"
+}
+{
+"classname" "target_location"
+"origin" "-490 -2205 -43"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "-864 -2172 82"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "-186 -2138 -45"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "281 -2199 -45"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
 "origin" "-64 0 -64"
 "message" "^4Flag Area"
 }
 {
 "classname" "target_location"
-"origin" "-472 -224 -72"
+"origin" "-742 -224 -72"
+"message" "^4Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "341 -648 -93"
+"message" "^4Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "-43 -664 -269"
 "message" "^4Flag Area"
 }
 {
@@ -21,28 +181,163 @@
 }
 {
 "classname" "target_location"
+"origin" "-853 -222 -269"
+"message" "^4Mega Area"
+}
+{
+"classname" "target_location"
+"origin" "128 -896 -280"
+"message" "^4Teleporter Area"
+}
+{
+"classname" "target_location"
+"origin" "295 -1005 -261"
+"message" "^4Teleporter Area"
+}
+{
+"classname" "target_location"
+"origin" "15 -1296 -269"
+"message" "^4Teleporter Area"
+}
+{
+"classname" "target_location"
 "origin" "736 -1152 72"
 "message" "^4Upper YA"
 }
 {
 "classname" "target_location"
-"origin" "-128 -940 72"
+"origin" "684 -1000 82"
+"message" "^4Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "447 -750 84"
 "message" "^4Mid"
 }
 {
 "classname" "target_location"
-"origin" "-888 -700 250"
-"message" "^4Rail Area"
-}
-{
-"classname" "target_location"
-"origin" "-632 -1240 -72"
+"origin" "583 -895 82"
 "message" "^4Mid"
 }
 {
 "classname" "target_location"
-"origin" "-1164 -1692 96"
+"origin" "549 -1173 -13"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-702 -750 -61"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-697 -678 -61"
+"message" "^4Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "191 -794 82"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-151 -1147 -61"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "663 -831 82"
+"message" "^4Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-851 -791 58"
 "message" "^4Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-811 -999 -61"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-720 -1173 58"
+"message" "^4Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-836 -1008 58"
+"message" "^4Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-1171 -1702 122"
+"message" "^4Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-497 -1226 -61"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-744 -1747 82"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "412 -1793 82"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "-500 -1383 -45"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "168 -1392 -43"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "-363 -1428 -45"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "-133 -1446 -45"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "575 -1409 82"
+"message" "^7Mid"
+}
+{
+"classname" "target_location"
+"origin" "663 -1472 82"
+"message" "^4Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "669 -1321 82"
+"message" "^4Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-1042 -1445 66"
+"message" "^4Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-390 -1269 -61"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-688 -1264 -61"
+"message" "^4Mid"
 }
 {
 "classname" "team_CTF_blueflag"

@@ -9,11 +9,6 @@
 "origin" "-64 0 -64"
 }
 {
-"message" "^4Flag Area"
-"origin" "-64 0 -64"
-"classname" "target_location"
-}
-{
 "origin" "-1408 192 -56"
 "classname" "item_armor_combat"
 }
@@ -27,11 +22,6 @@
 "angle" "270"
 "origin" "-888 -704 160"
 "classname" "misc_teleporter_dest"
-}
-{
-"message" "^4Rail Area"
-"origin" "-888 -704 160"
-"classname" "target_location"
 }
 {
 "classname" "trigger_teleport"
@@ -107,22 +97,12 @@
 "classname" "item_armor_combat"
 }
 {
-"message" "^4Upper YA"
-"origin" "736 -1152 72"
-"classname" "target_location"
-}
-{
 "classname" "weapon_shotgun"
 "origin" "-1056 -2432 72"
 }
 {
 "classname" "item_armor_combat"
 "origin" "-1192 -2432 104"
-}
-{
-"message" "^1Upper YA"
-"origin" "-1192 -2432 104"
-"classname" "target_location"
 }
 {
 "classname" "misc_teleporter_dest"
@@ -163,23 +143,8 @@
 "classname" "weapon_lightning"
 }
 {
-"message" "^1LG + Teleporter"
-"origin" "-448 -2688 -280"
-"classname" "target_location"
-}
-{
-"message" "^1Flag Area"
-"origin" "-448 -2888 -280"
-"classname" "target_location"
-}
-{
 "origin" "352 -3360 -72"
 "classname" "weapon_rocketlauncher"
-}
-{
-"message" "^1Flag Area"
-"origin" "352 -3360 -72"
-"classname" "target_location"
 }
 {
 "origin" "-128 -3048 -72"
@@ -214,28 +179,8 @@
 "origin" "128 -896 -280"
 }
 {
-"message" "^4LG + Teleporter"
-"origin" "128 -896 -280"
-"classname" "target_location"
-}
-{
-"message" "^4LG + Teleporter"
-"origin" "128 -996 -280"
-"classname" "target_location"
-}
-{
-"message" "^4Flag Area"
-"origin" "128 -696 -280"
-"classname" "target_location"
-}
-{
 "classname" "weapon_rocketlauncher"
 "origin" "-672 -224 -72"
-}
-{
-"message" "^4Flag Area"
-"origin" "-672 -224 -72"
-"classname" "target_location"
 }
 {
 "origin" "712 -2140 80"
@@ -439,11 +384,6 @@
 "classname" "ammo_grenades"
 }
 {
-"message" "^7Mid"
-"origin" "-848 -1840 72"
-"classname" "target_location"
-}
-{
 "origin" "-168 368 0"
 "classname" "item_armor_shard"
 }
@@ -467,11 +407,6 @@
 "origin" "844 -1892 104"
 "classname" "weapon_railgun"
 "count" "7"
-}
-{
-"message" "^1Rail Area"
-"origin" "844 -1892 104"
-"classname" "target_location"
 }
 {
 "origin" "264 -2344 -72"
@@ -544,41 +479,16 @@
 "classname" "item_health_mega"
 }
 {
-"message" "^1Mega + YA"
-"origin" "824 -3360 -280"
-"classname" "target_location"
-}
-{
 "classname" "item_health_mega"
 "origin" "-1144 -224 -280"
 }
 {
-"message" "^4Mega + YA"
-"origin" "-1144 -224 -280"
-"classname" "target_location"
-}
-{
 "classname" "weapon_grenadelauncher"
 "origin" "-128 -1240 72"
 }
 {
-"message" "^4Mid"
-"origin" "-128 -1240 72"
-"classname" "target_location"
-}
-{
-"message" "^7Mid"
-"origin" "-128 -1440 72"
-"classname" "target_location"
-}
-{
 "origin" "-192 -2340 72"
 "classname" "weapon_grenadelauncher"
-}
-{
-"message" "^1Forward Base"
-"origin" "-192 -2340 72"
-"classname" "target_location"
 }
 {
 "angle" "180"
@@ -1101,11 +1011,6 @@
 "count" "7"
 }
 {
-"message" "^4Rail Area"
-"origin" "-1164 -1692 96"
-"classname" "target_location"
-}
-{
 "targetname" "t74"
 "origin" "-1032 -1616 176"
 "classname" "target_position"
@@ -1138,11 +1043,6 @@
 {
 "origin" "528 -1744 72"
 "classname" "ammo_grenades"
-}
-{
-"message" "^7Mid"
-"origin" "528 -1744 72"
-"classname" "target_location"
 }
 {
 "targetname" "t77"
@@ -1440,11 +1340,6 @@
 "classname" "team_CTF_redflag"
 }
 {
-"message" "^1Flag Area"
-"origin" "-256 -3584 -64"
-"classname" "target_location"
-}
-{
 "targetname" "t127"
 "origin" "384 -3000 160"
 "classname" "target_position"
@@ -1644,11 +1539,6 @@
 {
 "origin" "-160 -1792 72"
 "classname" "item_regen"
-}
-{
-"message" "^7Mid"
-"origin" "-160 -1792 72"
-"classname" "target_location"
 }
 {
 "model" "*29"

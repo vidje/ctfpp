@@ -11,8 +11,38 @@
 }
 {
 "classname" "target_location"
-"origin" "-64 0 -64"
+"origin" "-472 -224 -72"
+"message" "^4Flag Area"
+}
+{
+"classname" "target_location"
+"origin" "-1408 192 -56"
 "message" "^4Mega Area"
+}
+{
+"classname" "target_location"
+"origin" "736 -1152 72"
+"message" "^4Upper YA"
+}
+{
+"classname" "target_location"
+"origin" "-128 -940 72"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-888 -700 250"
+"message" "^4Rail Area"
+}
+{
+"classname" "target_location"
+"origin" "-632 -1240 -72"
+"message" "^4Mid"
+}
+{
+"classname" "target_location"
+"origin" "-1164 -1692 96"
+"message" "^4Rail Area"
 }
 {
 "classname" "team_CTF_blueflag"

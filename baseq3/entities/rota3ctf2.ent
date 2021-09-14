@@ -629,7 +629,7 @@
 }
 {
 "origin" "32 -1488 -560"
-"classname" "weapon_grenadelauncher"
+"classname" "weapon_plasmagun"
 }
 {
 "origin" "-256 -208 -560"
@@ -637,11 +637,12 @@
 }
 {
 "origin" "-256 -2384 -880"
-"classname" "weapon_plasmagun"
+"classname" "weapon_lightning"
 }
 {
 "origin" "-800 -800 -816"
 "classname" "weapon_railgun"
+"count" "7"
 }
 {
 "origin" "-864 -2320 -560"
@@ -649,7 +650,8 @@
 }
 {
 "origin" "-256 -2464 -304"
-"classname" "weapon_shotgun"
+"classname" "item_health_mega"
+"wait" "60"
 }
 {
 "origin" "-256 -1896 -560"
@@ -657,10 +659,10 @@
 }
 {
 "origin" "-936 -928 -560"
-"classname" "item_armor_combat"
+"classname" "item_armor_jacket"
 }
 {
-"classname" "item_armor_combat"
+"classname" "item_armor_jacket"
 "origin" "424 -920 -560"
 }
 {
@@ -668,7 +670,7 @@
 "classname" "item_armor_combat"
 }
 {
-"classname" "weapon_grenadelauncher"
+"classname" "weapon_shotgun"
 "origin" "-544 -1488 -560"
 }
 {
@@ -680,7 +682,7 @@
 "classname" "item_quad"
 }
 {
-"classname" "weapon_grenadelauncher"
+"classname" "weapon_plasmagun"
 "origin" "-544 1776 -560"
 }
 {
@@ -688,32 +690,34 @@
 "origin" "-256 496 -560"
 }
 {
-"classname" "weapon_plasmagun"
+"classname" "weapon_lightning"
 "origin" "-256 2672 -880"
 }
 {
 "classname" "weapon_railgun"
 "origin" "288 1088 -816"
+"count" "7"
 }
 {
 "classname" "weapon_rocketlauncher"
 "origin" "352 2608 -560"
 }
 {
-"classname" "weapon_shotgun"
+"classname" "item_health_mega"
 "origin" "-256 2752 -304"
+"wait" "60"
 }
 {
 "classname" "item_armor_body"
 "origin" "-256 2184 -560"
 }
 {
-"classname" "item_armor_combat"
+"classname" "item_armor_jacket"
 "origin" "424 1216 -560"
 }
 {
 "origin" "-936 1208 -560"
-"classname" "item_armor_combat"
+"classname" "item_armor_jacket"
 }
 {
 "classname" "item_armor_combat"
@@ -721,7 +725,7 @@
 }
 {
 "origin" "32 1776 -560"
-"classname" "weapon_grenadelauncher"
+"classname" "weapon_shotgun"
 }
 {
 "origin" "-864 2608 -560"
@@ -798,10 +802,6 @@
 {
 "origin" "-288 -1952 -816"
 "classname" "ammo_rockets"
-}
-{
-"classname" "ammo_slugs"
-"origin" "-96 -400 -560"
 }
 {
 "classname" "ammo_cells"
@@ -890,10 +890,6 @@
 {
 "classname" "ammo_rockets"
 "origin" "-224 2240 -816"
-}
-{
-"origin" "-416 688 -560"
-"classname" "ammo_slugs"
 }
 {
 "origin" "-96 688 -560"
@@ -1046,34 +1042,10 @@
 "noise" "sound/rota3ctf2/icewind.wav"
 }
 {
-"angle" "90"
-"targetname" "t101"
-"origin" "424 1008 -520"
-"classname" "target_teleporter"
-}
-{
-"classname" "target_teleporter"
-"origin" "-936 1008 -520"
-"targetname" "t101"
-"angle" "90"
-}
-{
 "classname" "target_position"
 "origin" "-256 2640 -312"
 "angle" "90"
 "targetname" "t81"
-}
-{
-"angle" "270"
-"targetname" "t104"
-"origin" "-936 -720 -520"
-"classname" "target_position"
-}
-{
-"angle" "270"
-"targetname" "t104"
-"origin" "424 -720 -520"
-"classname" "target_position"
 }
 {
 "classname" "target_give"

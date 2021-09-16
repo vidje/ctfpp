@@ -1,3 +1,32 @@
+### v0.3
+
+**Global changes**
+  * Respawn time: 2000ms
+
+**Map specific**
+  CAPTURE THE KARIN (rota3ctf2)
+    * Added Mega Health spawn instead of Shotgun at teleporter exit, MH respawn: 60s
+    * Killed off hidden teleporter exits, that lower area is now a dead end
+    * Replaced both Yellow Armors at mid with Green Armors for both teams
+    * Lightning Gun spawns instead of Plasmagun in base
+    * Removed Grenade Launcher spawns
+    * Plasmagun and Shotgun spawn instead of 2x Grenade Launchers in base
+    * Removed Slugs spawning in the middle
+    
+  LA BASTILLE
+    * Too much to remember. Just delete bastir.ent to find out.
+    
+  REFLUX
+    * Red Armor spawns instead of Yellow Armor every 25s
+  
+  SHINING FORCES
+    * Railgun spawns instead of middle Shotgun
+    * Middle Shotgun spawns instead of Plasmagun
+    * Plasmagun spawns at default Railgun location
+  
+  SHOT THROUGH (gooctf5)
+    * Too much to remember. Just delete gooctf5.ent to find out.
+
 ### v0.2.1
 
 **Map specific**
@@ -7,7 +36,7 @@
     * Railgun and Grenade Launcher spawns switched
     * LG spawns instead of Nailgun
     * Additional LG ammo spawns instead of nails
-    * Yellow armor spawns instead of red armor
+    * Yellow Amor spawns instead of Red Armor
 
 ### v0.2
 

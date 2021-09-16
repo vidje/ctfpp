@@ -18,7 +18,7 @@ This on its own is nice and fine, but I do think that spawns are too weak with t
 
 You might not be as strong as before off a spawn, but you respawn a lot faster and can get in position to intercept (or whatever) in time.
 
-> Minimum respawn delay set to 1500ms.
+> Minimum respawn delay set to 2000ms.
 
 ### Powerups
 
@@ -38,13 +38,23 @@ Railgun ammo on pickup reduced to lessen the railfests on mid, and overall the d
 
 **Shining Forces** used to be a very defensive map with a low scoring gameplay. The following changes were made to counter this,
 
+Variant 1:
+
 > Railgun now spawns at default Plasmagun location.
 > 
-> Plasmagun now spawns at default Railgun Gun location.
+> Plasmagun now spawns at default Railgun location.
 > 
 > Railgun ammo now spawns instead of rocket ammo in both bases.
 > 
 > Replaced Regen powerup with Quad.
+
+Variant 2:
+
+> Railgun now spawns at middle Shotgun location.
+> 
+> Shotgun now spawns at default Plasmagun location.
+> 
+> Plasmagun now spawns at default Railgun location.
 
 The change in weapon placements might be completely unnecessary now that Quad is in play instead of Regen, but until it's tested we won't know.
 
@@ -52,30 +62,18 @@ The change in weapon placements might be completely unnecessary now that Quad is
 
 The following maps were changed in mind for CTF++ gameplay:
 
-> Courtyard
->
-> Future Crossings
->
-> Ironworks
+> Bastir (`bastir`, needs testing)
 > 
-> Japanese Castles
-> 
-> Pillbox
+> Capture the Karin (`rota3ctf2`, needs testing)
+>
+> Infinity (`ct3ctf1`)
+>
+> Reflux
 > 
 > Shining Forces
 > 
-> Siberia
-> 
-> Spider Crossings
-> 
-> Stonekeep
-> 
-> The Duke's Garden
-> 
-> Troubled Waters
+> Shot Through (`gooctf5`)
 
 ## Ideas
 
-Increase the minimum respawn time by a bit, as the general idea behind making fresh spawns weaker was for them to not obstruct flag runs and attackers off the spawn as much as they did before.
-
-Set the powerup instead of fixed spawn to 52.5 +- 7.5 (random spawn between 45-60s).
+Suggest one on discord.

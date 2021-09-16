@@ -58,6 +58,8 @@ Variant 2:
 
 The change in weapon placements might be completely unnecessary now that Quad is in play instead of Regen, but until it's tested we won't know.
 
+Refer to `changelog` for all map changes.
+
 ### Map pool
 
 The following maps were changed in mind for CTF++ gameplay:

@@ -1,7 +1,6 @@
+bastir|ctfpp
 ct3ctf1|ctfpp
-ironworks|ctfpp
-japanesecastles|ctfpp
-pillbox|ctfpp
-shiningforces|ctfpp
-spidercrossings|ctfpp
-troubledwaters|ctfpp
+gooctf5|ctfpp
+noir|ctfpp
+reflux|ctfpp
+rota3ctf2|ctfpp

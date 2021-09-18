@@ -6,6 +6,15 @@ Discord: [Invite](https://discord.gg/RVHpEGRrmf)
 
 ## Changes
 
+### Overtime
+
+The current state of overtime in QL with the respawn delay places emphasis on chasing the players and frags to secure the win. The team that frags more has the advantage and the longer the overtime runs, the bigger the respawn delay gets, it gets worse for the team inferior in aim/fragging department. Not to mention that it's annoying as hell to sit in death cam for 10s. To counter that, there are two possibilities.
+> Sudden Death overtime (golden cap) with no respawn delay
+and
+> Classic Overtime (imagine football).
+
+The servers currently have classic Overtime set up, with 300s (5 min) of added time in which the game can be finished. If score stays tied, another 300s are added to the game and so on.
+
 ### Spawns
 
 The following changes were made for the fresh spawns to have less impact on the gameplay. Please keep in mind that in 4v4 the spawns don't have that big of an impact on the game, so if you're going to run 4v4 games it might be better to leave the default values.

@@ -10,7 +10,9 @@ Discord: [Invite](https://discord.gg/RVHpEGRrmf)
 
 The current state of overtime in QL with the respawn delay places emphasis on chasing the players and frags to secure the win. The team that frags more has the advantage and the longer the overtime runs, the bigger the respawn delay gets, it gets worse for the team inferior in aim/fragging department. Not to mention that it's annoying as hell to sit in death cam for 10s. To counter that, there are two possibilities.
 > Sudden Death overtime (golden cap) with no respawn delay
+> 
 and
+
 > Classic Overtime (imagine football).
 
 The servers currently have classic Overtime set up, with 300s (5 min) of added time in which the game can be finished. If score stays tied, another 300s are added to the game and so on.
